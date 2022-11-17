@@ -6,11 +6,11 @@ A neural deep learning model that detects whether a person has Tuberculosis usin
 
 The data is from: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 
-## How the model was made
+## 🥧 How the model was made
 
 The model was made using [Tensorflow](https://www.tensorflow.org/), an excellent machine learning and deep learning library. I used Keras as the model.
 
-## How the notebook is structured
+## 🏗️ How the notebook is structured
 
 * Explore the data
 * Create model
@@ -18,7 +18,7 @@ The model was made using [Tensorflow](https://www.tensorflow.org/), an excellent
 * Train the model
 * Load the best model and find its accuracy
 
-## What you will find
+## 🔍 What you will find
 
 * The use of [Tensorflow](https://www.tensorflow.org/)
 * Many awesome functions
