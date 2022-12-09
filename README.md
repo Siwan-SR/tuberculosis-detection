@@ -2,7 +2,7 @@
 
 A neural deep learning model that detects whether a person has Tuberculosis using chest X - rays.
 
-## Data
+## 📊 Data
 
 The data is from: https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
 
